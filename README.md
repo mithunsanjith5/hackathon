@@ -2,14 +2,14 @@
 
 # 🏥 Migrant Health Record Management System (Kerala)
 
-[![GitHub issues](https://img.shields.io/github/issues/<your-org>/<your-repo>?style=flat-square)](https://github.com/<your-org>/<your-repo>/issues)
-[![GitHub forks](https://img.shields.io/github/forks/<your-org>/<your-repo>?style=flat-square)](https://github.com/<your-org>/<your-repo>/network)
-[![GitHub stars](https://img.shields.io/github/stars/<your-org>/<your-repo>?style=flat-square)](https://github.com/<your-org>/<your-repo>/stargazers)
-[![GitHub license](https://img.shields.io/github/license/<your-org>/<your-repo>?style=flat-square)](./LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/mithunsanjith5/hackathon?style=flat-square)](https://github.com/<your-org>/<your-repo>/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mithunsanjith5/hackathon?style=flat-square)](https://github.com/<your-org>/<your-repo>/network)
+[![GitHub stars](https://img.shields.io/github/stars/mithunsanjith5/hackathon?style=flat-square)](https://github.com/<your-org>/<your-repo>/stargazers)
+[![GitHub license](https://img.shields.io/github/license/mithunsanjith5/hackathon?style=flat-square)](./LICENSE)
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue?style=flat-square&logo=flutter)](https://flutter.dev)
 [![Powered by ABDM](https://img.shields.io/badge/Powered%20by-ABDM-green?style=flat-square)](https://abdm.gov.in)
 
----
+---https://github.com/mithunsanjith5/hackathon
 
 ### 🌐 A Smart India Hackathon project to provide **migrant workers in Kerala** with secure, multilingual, and portable **digital health records**, powered by **ABHA ID & ABDM integration**.
 
